@@ -1,5 +1,5 @@
 # apex_test_raise_errors
-Oracle Apex raising error exception in before and after header process using customer error handler
+Oracle APEX raising error exception in before and after header process using customer error handler
 
 For demo see <a href="https://apex.oracle.com/pls/apex/coval/r/test-exception-errors">https://apex.oracle.com/pls/apex/coval/r/test-exception-errors</a>
 
